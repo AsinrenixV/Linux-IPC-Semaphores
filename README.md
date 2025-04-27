@@ -126,7 +126,7 @@ int main() {
 $ ./sem.o 
 $ ipcs
 
-![alt text](ex05img.png)
+![alt text](exp05.png)
 
 
 
